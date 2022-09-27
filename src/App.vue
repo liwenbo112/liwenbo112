@@ -1,4 +1,5 @@
 <template>
+    <!-- 注释 -->
     <div id="app">
         <h1 style="text-align: center">Vue Grid Layout</h1>
         <div>
@@ -10,6 +11,7 @@
                     </div>
                 </div>
             </div>
+            <!-- 注释 -->
             <!--<div class="layoutJSON">
                 Displayed as <code>[x, y, w, h]</code>:
                 <div class="columns">
